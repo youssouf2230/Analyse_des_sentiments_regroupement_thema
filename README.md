@@ -1,1 +1,4 @@
 # Analyse_des_sentiments_regroupement_thema
+## Problématique
+L’essor des plateformes numériques a engendré un afflux massif de données textuelles, rendant incontournable l’usage de méthodes automatiques pour analyser les opinions exprimées. Toutefois, plusieurs défis persistent : la diversité des expressions linguistiques, la subjectivité des sentiments, et les formulations ambivalentes.
+Parallèlement, le besoin de structurer ces données non organisées selon des thématiques cohérentes impose le recours à des techniques de regroupement efficaces. Il s’agit donc de répondre à une double problématique : comment extraire automatiquement la polarité des opinions exprimées dans un texte, et comment regrouper ces textes selon les thèmes sous-jacents qu’ils abordent ![image](https://github.com/user-attachments/assets/0c6cc368-5dd3-43de-b872-50f091629502)
